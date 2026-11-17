@@ -47,7 +47,7 @@ repositories:
 
 website: "https://connectrpc.com/"
 
-artwork: "https://landscape.cncf.io/logos/connect-rpc.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/connect-rpc"
 
 package_managers:
   go: "connectrpc.com/connect" # connect-go
